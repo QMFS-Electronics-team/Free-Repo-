@@ -4,11 +4,11 @@
 
 -You need to change you global email address:
 
-git config --global user.email [your email address here]
+ `git config --global user.email [your email address here]`
 
 -To change you global user.username
 
-$ git config user.name "Mona Lisa"
+ `git config user.name "Mona Lisa"`
 
 ## If your repository is empty, follow these steps:
 
@@ -22,15 +22,15 @@ git config user.email
 
 Ensure this is correct for your github account, follow these commands:
 
-1.Git init
+1. `git init`
 
-2.git remote add origin https://github.com/QMFS-Electronics-team/Free-Repo-.git
+2. `git remote add origin https://github.com/QMFS-Electronics-team/Free-Repo-.git`
 
-3.git add -A
+3. `git add -A`
 
-4.git commit -m "Commit made by [yourname]"
+4. `git commit -m "Commit made by [yourname]"`
 
-5.git push -u origin master
+5. `git push -u origin master`
 
 
 ## Updating and pushing commit
@@ -38,12 +38,12 @@ Ensure this is correct for your github account, follow these commands:
 After establishing your repo follow these steps to keep track of your software:
 
 
-1.git status
+1. `git status`
 
-2.git pull
+2. `git pull`
 
-3.git add -A
+3. `git add -A`
 
-4.git commit -m "[Commit message]"
+4. `git commit -m "[Commit message]"`
 
-5.git push
+5. `git push`
