@@ -8,7 +8,7 @@
 
 -To change you global user.username
 
- `git config user.name "Mona Lisa"`
+ `git config --global user.name "Mona Lisa"`
 
 ## If your repository is empty, follow these steps:
 
