@@ -16,9 +16,9 @@ Steps taken by penguin-bot
 
 Check your previous username and email address by entering the following:
 
-git config user.name
+ `git config user.name`
 
-git config user.email
+ `git config user.email`
 
 Ensure this is correct for your github account, follow these commands:
 
